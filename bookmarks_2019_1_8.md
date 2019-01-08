@@ -3,10 +3,11 @@
 
 ### React
      
-[JSX 简介 - React](https://react.docschina.org/docs/introducing-jsx.html)
-[React 中文文档](http://caibaojian.com/react/)
-[Ant Design](https://ant.design/docs/react/getting-started-cn)
-- [曾小涛](https://github.com/zengxiaotao)
+ [JSX 简介 - React](https://react.docschina.org/docs/introducing-jsx.html)
+ 
+ [React 中文文档](http://caibaojian.com/react/)
+ 
+ [Ant Design](https://ant.design/docs/react/getting-started-cn)
             
     
 
